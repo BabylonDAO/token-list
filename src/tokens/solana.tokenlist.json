@@ -32447,6 +32447,38 @@
     },
     {
       "chainId": 101,
+      "address": "DXuntkrPt38K4CxH9Hnb3MkuxoaiZ61FA4m46zikC7s",
+      "symbol": "aBBY",
+      "name": "BabylonDAO Advisor Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo/logo.jpg",
+      "tags": [
+        "Utility-token",
+        "Defi",
+        "BabylonDAO Advisor Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/babylondao"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BgAk1wjpfN4UV3mVoaxpGVEx3C1fbUcNwn8EipcNgd7y",
+      "symbol": "tBBY",
+      "name": "BabylonDAO Team Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo/logo.jpg",
+      "tags": [
+        "Utility-token",
+        "Defi",
+        "BabylonDAO Team Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/babylondao"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "AATv4cJz1ykW3XBDBwqCwbvGjg3SfWNJ47tSKhriTZuD",
       "symbol": "MGS",
       "name": "MoonGearSolid",
